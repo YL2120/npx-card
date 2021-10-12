@@ -1,0 +1,23 @@
+{
+  "name": "npx-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YL2120/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YL2120/npx-card/issues"
+  },
+  "homepage": "https://github.com/YL2120/npx-card#readme",
+  "dependencies": {
+    "boxen": "^6.2.0",
+    "chalk": "^4.1.2"
+  }
+}
