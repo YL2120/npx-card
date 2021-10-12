@@ -1,7 +1,6 @@
 #!/usr/bin/env node
-
-const chalk = require("chalk");
-const boxen = require("boxen");
+import chalk from "chalk";
+import boxen from "boxen";
 
 // Text + chalk definitions
 const data = {
